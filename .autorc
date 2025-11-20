@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "nominmethdam0-ctrl",
+  "repo": "container-rfdweng",
+  "name": "nominmethdam0-ctrl",
+  "email": "nominmethdam0@gmail.com",
+}
